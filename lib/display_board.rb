@@ -9,4 +9,6 @@ puts  "-----------"
 puts  "   |   |   "
 end
 
-board = 
+board = [" "," "," "," "," "," "," "," "," "]
+
+dislpay_board(board)
