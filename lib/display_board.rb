@@ -8,3 +8,5 @@ puts  "   |   |   "
 puts  "-----------"
 puts  "   |   |   "
 end
+
+board = 
